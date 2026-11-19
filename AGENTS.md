@@ -1,4 +1,4 @@
-# Hermes Agent - Development Guide
+https://github.com/i81431729-alt/hermes-agent/blob/main/AGENTS.md# Hermes Agent - Development Guide
 
 For AI coding assistants and developers working on hermes-agent. This root file is a hub: what
 applies everywhere, then a routing table. Each area's `AGENTS.md` loads automatically when you work
